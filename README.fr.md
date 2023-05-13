@@ -1,5 +1,5 @@
 #### Languages README: 
-![fr](https://img.shields.io/badge/README-fr-blue) ![es](https://img.shields.io/badge/README-es-red)
+[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.md)
 # Salut à tous👋
 
 Je me suis passionné depuis peu au développement web, j'ai appris en autodidacte en suivant des cours en ligne et en réalisant des projets qui me plaisaient. 🎆
