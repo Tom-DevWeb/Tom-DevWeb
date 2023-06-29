@@ -6,9 +6,10 @@ Je me suis passionné depuis peu au développement web, j'ai appris en autodidac
 
 ## Mes projets 👨‍💻
 
-- Mon tout premier site en **HTML/CSS/JS** pour jouer au [petit BAC](https://lepetitbac.tox-dev.fr/)
+- Mon tout premier site en **HTML/CSS/JS** pour jouer au petit BAC.
 - Mon 2éme projet un [portfolio pour un graphiste](https://maxportfolio.tox-dev.fr/)
 - Mon 3éme projet mon site internet réalisé en **PHP** ➡ [tox-dev.fr](https://tox-dev.fr)
+- Mon dernier projet avec **React** et **Sass** ➡ [Tooly](https://tooly.tox-dev.fr/)
 
 🚀 Mon projet en cours **Tooly** !
 
