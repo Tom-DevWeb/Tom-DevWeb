@@ -6,9 +6,10 @@ I recently became passionate about web development, I learned on my own by takin
 
 ## My projects 👨‍💻
 
-- My first website **HTML/CSS/JS** to play [petit BAC](https://lepetitbac.tox-dev.fr/)
+- My first website **HTML/CSS/JS** to play "petit BAC"
 - My 2nd project a [portfolio for a graphic designer](https://maxportfolio.tox-dev.fr/)
 - My 3nd project my website made in **PHP** ➡ [tox-dev.fr](https://tox-dev.fr)
+- My last project with React and Sass ➡ [Tooly](https://tooly.tox-dev.fr/)
 
 🚀 My current project **Tooly** !
 
