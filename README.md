@@ -39,3 +39,5 @@ I recently became passionate about web development, I learned on my own by takin
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-andre/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SuperToxyh)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxyhdev&langs_count=8)
