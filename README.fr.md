@@ -2,16 +2,17 @@
 [![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.md)
 # Salut à tous👋
 
-Je me suis passionné depuis peu au développement web, j'ai appris en autodidacte en suivant des cours en ligne et en réalisant des projets qui me plaisaient. 🎆
+Je me suis passionné de développement web, j'ai appris en autodidacte et j'ai récemment suivi une formation diplomante en tant que Développeur d'Application web.
+Je réalise de nombreux projets afin de me perfectionner. 🎆
 
 ## Mes projets 👨‍💻
 
-- Mon tout premier site en **HTML/CSS/JS** pour jouer au petit BAC.
-- Mon 2éme projet un [portfolio pour un graphiste](https://maxportfolio.tox-dev.fr/)
-- Mon 3éme projet mon site internet réalisé en **PHP** ➡ [tox-dev.fr](https://tox-dev.fr)
-- Mon dernier projet avec **React** et **Sass** ➡ [Tooly](https://tooly.tox-dev.fr/)
 
-🚀 Mon projet en cours **Tooly** !
+- Mon site internet réalisé en **PHP** (en cours de changement) ➡ [tox-dev.fr](https://tox-dev.fr)
+- Tooly une web app, projet avec **React** et **Sass** ➡ [Tooly](https://tooly.tox-dev.fr/)
+- Les projets de ma formation ➡ [OpenClassrooms](https://toxyhdev.github.io/)
+
+🚀 Mon projet en cours **mon nouveau site web** ! Il sera réalisé avec ViteJS, React, TypeScript et d'autres technos.
 
 ## Mes compétences 👍
 
