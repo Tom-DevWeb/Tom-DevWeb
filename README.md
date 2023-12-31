@@ -2,16 +2,17 @@
 [![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.md)
 # Hi everyone👋
 
-I recently became passionate about web development, I learned on my own by taking online courses and carrying out projects that I liked. 🎆
+I was passionate about web development, I taught myself and I recently followed a diploma course as a Web Application Developer.
+I carry out many projects to improve myself. 🎆
 
 ## My projects 👨‍💻
 
-- My first website **HTML/CSS/JS** to play "petit BAC"
-- My 2nd project a [portfolio for a graphic designer](https://maxportfolio.tox-dev.fr/)
-- My 3nd project my website made in **PHP** ➡ [tox-dev.fr](https://tox-dev.fr)
-- My last project with React and Sass ➡ [Tooly](https://tooly.tox-dev.fr/)
 
-🚀 My current project **Tooly** !
+- My website created in **PHP** (currently changing) ➡ [tox-dev.fr](https://tox-dev.fr)
+- Tooly a web app, project with **React** and **Sass** ➡ [Tooly](https://tooly.tox-dev.fr/)
+- My training projects ➡ [OpenClassrooms](https://toxyhdev.github.io/)
+
+🚀 My current project **my new website**! It will be made with ViteJS, React, TypeScript and other technologies.
 
 ## My skills 👍
 
