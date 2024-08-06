@@ -1,5 +1,5 @@
 #### Languages README: 
-[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.md)
+[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/Tom-WebDev/Tom-WebDev/blob/main/README.md)
 # Hi everyone👋
 <br/>
 
@@ -12,9 +12,9 @@ I carry out many projects to improve myself. 🚀
 <br/>
 
 - 🤩 My website created with **stack MERN** ➡ [Tom Web Dev](https://tomwebdev.fr)
-- 📊 SportSee an analytics dashboard ➡ [SportSee](https://toxyhdev.github.io/projets/12-sportsee/)
-- 💵 ArgentBank a web app with secure authentication ➡ [ArgentBank](https://github.com/ToxyhDev/Project-13-Bank-API)
-- 📅 HRnet is an old jQuery web app that I converted to React, a table creation library was developed [(lien)](https://github.com/ToxyhDev/DataTable-React-Module) ➡ [HRnet](https://github.com/ToxyhDev/OC-Dev_App_JS_React-P14-HRnet)
+- 📊 SportSee an analytics dashboard ➡ [SportSee](https://tom-webdev.github.io/projets/12-sportsee/)
+- 💵 ArgentBank a web app with secure authentication ➡ [ArgentBank](https://github.com/Tom-WebDev/Project-13-Bank-API)
+- 📅 HRnet is an old jQuery web app that I converted to React, a table creation library was developed [(lien)](https://github.com/Tom-WebDev/DataTable-React-Module) ➡ [HRnet](https://github.com/Tom-WebDev/OC-Dev_App_JS_React-P14-HRnet)
 
 <br/>
 <br/>
