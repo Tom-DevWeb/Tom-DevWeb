@@ -1,5 +1,5 @@
 #### Languages README: 
-[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.md)
+[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/Tom-DevWeb/Tom-DevWeb/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/Tom-DevWeb/Tom-DevWeb/blob/main/README.md)
 # Salut à tous👋
 <br/>
 
@@ -12,9 +12,8 @@ Je réalise de nombreux projets afin de me perfectionner. 🚀
 <br/>
 
 - 🤩 Mon site internet réalisé avec le **stack MERN** ➡ [Tom Web Dev](https://tomwebdev.fr)
-- 📊 SportSee un tableau de bord d'analytics ➡ [SportSee](https://toxyhdev.github.io/projets/12-sportsee/)
-- 💵 ArgentBank une web app avec authentification sécurisée ➡ [ArgentBank](https://github.com/ToxyhDev/Project-13-Bank-API)
-- 📅 HRnet est une ancienne web app jQuery que j'ai converti en React, une librairie de création de tableau a été développé [(lien)](https://github.com/ToxyhDev/DataTable-React-Module) ➡ [HRnet](https://github.com/ToxyhDev/OC-Dev_App_JS_React-P14-HRnet)
+- 📝 Mon Blog avec 1 article par semaine ➡ [Tom Web Dev](https://blog.tomwebdev.fr)
+- 📅 HRnet est une ancienne web app jQuery que j'ai converti en React, une librairie de création de tableau a été développé [(lien)](https://github.com/Tom-DevWeb/DataTable-React-Module) ➡ [HRnet](https://github.com/Tom-DevWeb/OC-Dev_App_JS_React-P14-HRnet)
 
 <br/>
 <br/>
