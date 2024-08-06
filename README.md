@@ -1,5 +1,5 @@
 #### Languages README: 
-[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/ToxyhDev/ToxyhDev/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/Tom-WebDev/Tom-WebDev/blob/main/README.md)
+[![fr](https://img.shields.io/badge/README-fr-blue)](https://github.com/Tom-DevWeb/Tom-DevWeb/blob/main/README.fr.md) [![es](https://img.shields.io/badge/README-es-red)](https://github.com/Tom-DevWeb/Tom-DevWeb/blob/main/README.md)
 # Hi everyone👋
 <br/>
 
@@ -13,7 +13,7 @@ I carry out many projects to improve myself. 🚀
 
 - 🤩 My website created with **stack MERN** ➡ [Tom Web Dev](https://tomwebdev.fr)
 - 📝 My Blog with 1 article per week ➡ [Tom Web Dev](https://blog.tomwebdev.fr)
-- 📅 HRnet is an old jQuery web app that I converted to React, a table creation library was developed [(lien)](https://github.com/Tom-WebDev/DataTable-React-Module) ➡ [HRnet](https://github.com/Tom-WebDev/OC-Dev_App_JS_React-P14-HRnet)
+- 📅 HRnet is an old jQuery web app that I converted to React, a table creation library was developed [(lien)](https://github.com/Tom-DevWeb/DataTable-React-Module) ➡ [HRnet](https://github.com/Tom-DevWeb/OC-Dev_App_JS_React-P14-HRnet)
 
 <br/>
 <br/>
