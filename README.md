@@ -12,8 +12,7 @@ I carry out many projects to improve myself. 🚀
 <br/>
 
 - 🤩 My website created with **stack MERN** ➡ [Tom Web Dev](https://tomwebdev.fr)
-- 📊 SportSee an analytics dashboard ➡ [SportSee](https://tom-webdev.github.io/projets/12-sportsee/)
-- 💵 ArgentBank a web app with secure authentication ➡ [ArgentBank](https://github.com/Tom-WebDev/Project-13-Bank-API)
+- 📝 My Blog with 1 article per week ➡ [Tom Web Dev](https://blog.tomwebdev.fr)
 - 📅 HRnet is an old jQuery web app that I converted to React, a table creation library was developed [(lien)](https://github.com/Tom-WebDev/DataTable-React-Module) ➡ [HRnet](https://github.com/Tom-WebDev/OC-Dev_App_JS_React-P14-HRnet)
 
 <br/>
